@@ -56,14 +56,12 @@ After building, execute the compiled binary:
 Replace [binary_name] with the name of the executable created by the Makefile (e.g., ./main).
 
 # 🧪 Example Usage
-
-Describe how this project is typically used or provide an example:
+* Open terminal and execute to run the program
 ```bash
 $ ./main
 Program started...
 Output: [example]
 ```
-Add more examples as needed to help users understand typical input/output.
 
 # 📄 Features
 
