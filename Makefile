@@ -8,6 +8,13 @@ file01: Cpp/File\ Handling/File01/File01.cpp
 file02: Cpp/File\ Handling/File02/File02.cpp
 	$(CXX) $(CXXFLAGS) -o bin/file02 $<
 
+# ___ Mathematics ___________________________________________
+Addition: Cpp\Mathematics\Addition\Addition.cpp
+	$(CXX) $(CXXFLAGS) -o bin/Addition $<
+
+Table: Cpp\Mathematics\Table\Table.cpp
+	$(CXX) $(CXXFLAGS) -o bin/Table $<
+
 # ─── OOP ───────────────────────────────────────────────────
 oop01: Cpp/oops/oops01/oop01.cpp
 	$(CXX) $(CXXFLAGS) -o bin/oop01 $<
