@@ -34,40 +34,10 @@ Before you begin, ensure you have the following installed on your system:
 
 You can install these using your system’s package manager if they are not already installed.
 
-# 🚀 Build & Installation
-Using Makefile (recommended)
-
-* Open a terminal in this repository’s root folder.
-
-* Run:
-
-## ▶️ Build & Run
-
-```bash
-make
-```
-This will compile your project and produce the output binary (e.g., main, app, etc — depending on Makefile).
-
-# ▶️ Running the Program
-
-After building, execute the compiled binary:
-```bash
-./[binary_name] //example xyz.exe or xyz.out
-```
-Replace [binary_name] with the name of the executable created by the Makefile (e.g., ./main).
-
-# 🧪 Example Usage
-* Open terminal and execute to run the program
-```bash
-$ ./main
-Program started...
-Output: [example]
-```
-
 # 📄 Features
 
 * ✔ Written in C/C++
-* ✔ Simple build using Makefile
+* ✔ Simple build using Requirement.md
 * ✔ Easy to understand code structure
 
 # ❓ Getting Help
