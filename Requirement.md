@@ -1,6 +1,6 @@
 # Basic Requirement
 To run this code i'll recommand you to download. 
-*  MinGW or gcc/g++ or clang to run the code
+*  MinGW or gcc/g++ or clang to run the code.
 
 # Other OS discussion
 
