@@ -18,7 +18,7 @@ It is designed to be easy to compile and run using standard tools like gcc, g++.
 ├── Requirements.md      # Requirements for C/C++
 └── README.md            # This documentation
 ```
-# 🚀 Build & Installation
+# 🚀 To Start Your coding Journey
 
 Open terminal and follow the steps given below.
 
@@ -26,20 +26,6 @@ Open terminal and follow the steps given below.
 ```
 git clone https://github.com/littlezyn/C-project.git
 ```
-* After cloning open the directory.
-```
-cd C-project
-```
-* Using Install.sh to install C/C++ resorces (recommended for linux user),
-1. Make it executable
-```
-chmod +x Install.sh
-```
-2. Run it
-```
-sudo ./Install.sh
-```
-This will install the resorces for C/C++ (According to your system).
 
 # 🛠️ Prerequisites
 
