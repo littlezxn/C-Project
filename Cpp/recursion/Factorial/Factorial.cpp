@@ -24,5 +24,7 @@ factorial of 4 will be
 4 * Factorial(3)
 4 * 3 * Factorial(2)
 4 * 3 * 2 * Factorial(1)
-4 * 3 * 2 * 1
+4 * 3 * 2 * 1 * Factorial(0)
+4 * 3 * 2 * 1 * 1
+24
 */
