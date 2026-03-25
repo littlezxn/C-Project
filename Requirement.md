@@ -14,7 +14,7 @@ example = 'C:\MinGW\bin' like this.
 # Linux
 
 if you're on linux
-* Open terminal and paste the command line given below;
+* Open terminal and Do the following steps given below;
 
 * Firstly update your system 
 ```
